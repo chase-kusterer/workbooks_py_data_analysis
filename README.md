@@ -2,7 +2,7 @@
 ## From Print to Prediction: A Beginner's Guide to Python for Data Analysis
 ### Written by Chase Kusterer
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/workbooks_py_data_analysis/master?urlpath=tree&clear_cache=0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/workbooks_py_data_analysis/main?urlpath=tree&clear_cache=0)
 
 Click the **Launch Binder** button above to open the book.
 <br><br>
