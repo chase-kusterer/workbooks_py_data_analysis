@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -e
+
+# installing notebook extensions
+jupyter contrib nbextension install --user
+
+# enabling notebook extensions
+jupyter nbextension enable exercise2/main
+jupyter nbextension enable ruler/main
+jupyter nbextension enable codefolding/main
+jupyter nbextension enable splitcell/splitcell
+jupyter nbextension enable freeze/main
+jupyter nbextension disable migration --sys-prefix
