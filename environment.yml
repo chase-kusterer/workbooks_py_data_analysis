@@ -1,0 +1,24 @@
+name: py_textbook
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - nbclassic
+  - notebook=6.5.4 # - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - numpy=1.26.0
+  - pandas=2.2.0
+  - matplotlib
+  - seaborn=0.13.0
+  - scikit-learn=1.5.0
+  - statsmodels
+  - scipy
+  - ipywidgets
+  - openpyxl
+  - lifelines=0.30.0
+  - pyarrow
+  - pip
+  - pip:
+      - ipyleaflet==0.18.2
+      - jupyter-server==2.17.0
+      - https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tarball/master
