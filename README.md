@@ -1,8 +1,7 @@
-<h1 style="color: darkred;">Interactive Workbooks</h1>
-
-<h1>From Print to Prediction</h1>
-<h2>A Beginner's Guide to Python for Data Analysis</h2>
-<h3>Written by Chase Kusterer</h3>
+# Interactive Workbooks
+# From Print to Prediction
+## A Beginner's Guide to Python for Data Analysis
+### Written by Chase Kusterer
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/workbooks_py_data_analysis/master?urlpath=tree&clear_cache=0)
 
