@@ -8,6 +8,16 @@ Click the **Launch Binder** button above to open the book. It may take a minute 
 <br><br>
 This is a set of interactive workbooks to accompany From Print to Prediction: A Beginner's Guide to Python for Data Analysis*.
 <br><br>
+## Table of Contents
+- Script 01 - User Input and Dynamic Printing<br>
+- Script 02 - The Essentials of Lists<br>
+- Script 03 - Conditional Statements<br>
+- Script 04 - for Loops<br>
+- Script 05 - while Loops<br>
+- Script 06 - User-Defined Functions<br>
+- Script 07 - Introduction to pandas DataFrames<br>
+- Script 08 - DataFrame Operations<br>
+- Script 09 - Linear Relationships<br><br>
 
 ### Important - Saving Your Work
 Binder shuts down idle sessions (~10 minutes) and does not automatically save changes after a session ends. Make sure to save before taking a break or closing the book.
