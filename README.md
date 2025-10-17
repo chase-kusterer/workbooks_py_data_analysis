@@ -4,7 +4,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/workbooks_py_data_analysis/main?urlpath=tree&clear_cache=0)
 
-Click the **Launch Binder** button above to open the book.
+Click the **Launch Binder** button above to open the book. It may take a minute to load the first time you launch.
 <br><br>
 This is a set of interactive workbooks to accompany From Print to Prediction: A Beginner's Guide to Python for Data Analysis*.
 <br><br>
